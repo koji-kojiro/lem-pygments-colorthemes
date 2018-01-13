@@ -1,2 +1,1 @@
-(("package")
- (:dir "themes"))
+((:dir "themes"))
