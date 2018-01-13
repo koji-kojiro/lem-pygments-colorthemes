@@ -10,6 +10,7 @@
  :author "Tani Kojiro"
  :license "MIT"
  :serial t
+ :depends-on (#:lem)
  :components ((:module "themes"
                :components ((:file "abap")
                             (:file "algol")
