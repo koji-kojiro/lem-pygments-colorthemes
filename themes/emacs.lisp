@@ -3,6 +3,7 @@
 (define-color-theme "emacs" ()
   (foreground "#000000")
   (background "#ffffff")
+  (cursor :foreground "#ffffff" :background "#000000")
   (syntax-warning-attribute :foreground nil :background "#ffffff")
   (syntax-string-attribute :foreground "#af5f5f" :background "#ffffff")
   (syntax-comment-attribute :foreground "#008700" :background "#ffffff")

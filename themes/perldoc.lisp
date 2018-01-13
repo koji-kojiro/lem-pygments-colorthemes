@@ -3,6 +3,7 @@
 (define-color-theme "perldoc" ()
   (foreground "#000000")
   (background "#e4e4e4")
+  (cursor :foreground "#e4e4e4" :background "#000000")
   (syntax-warning-attribute :foreground "#af0000" :background "#e4e4e4")
   (syntax-string-attribute :foreground "#d75f5f" :background "#e4e4e4")
   (syntax-comment-attribute :foreground "#008700" :background "#e4e4e4")

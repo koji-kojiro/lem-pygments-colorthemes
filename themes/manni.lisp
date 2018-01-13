@@ -3,6 +3,7 @@
 (define-color-theme "manni" ()
   (foreground "#000000")
   (background "#eeeeee")
+  (cursor :foreground "#eeeeee" :background "#000000")
   (syntax-warning-attribute :foreground "#af0000" :background "#eeeeee")
   (syntax-string-attribute :foreground "#d75f00" :background "#eeeeee")
   (syntax-comment-attribute :foreground "#0087ff" :background "#eeeeee")

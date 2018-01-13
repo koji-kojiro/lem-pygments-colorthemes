@@ -3,6 +3,7 @@
 (define-color-theme "lovelace" ()
   (foreground "#000000")
   (background "#ffffff")
+  (cursor :foreground "#ffffff" :background "#000000")
   (syntax-warning-attribute :foreground nil :background "#ffffff")
   (syntax-string-attribute :foreground "#af5f5f" :background "#ffffff")
   (syntax-comment-attribute :foreground "#878787" :background "#ffffff")

@@ -3,6 +3,7 @@
 (define-color-theme "rainbow_dash" ()
   (foreground "#4e4e4e")
   (background "#ffffff")
+  (cursor :foreground "#ffffff" :background "#4e4e4e")
   (syntax-warning-attribute :foreground "#ffffff" :background "#ffffff")
   (syntax-string-attribute :foreground "#00d75f" :background "#ffffff")
   (syntax-comment-attribute :foreground "#0087ff" :background "#ffffff")

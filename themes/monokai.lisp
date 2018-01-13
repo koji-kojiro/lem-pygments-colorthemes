@@ -3,6 +3,7 @@
 (define-color-theme "monokai" ()
   (foreground "#eeeeee")
   (background "#262626")
+  (cursor :foreground "#262626" :background "#eeeeee")
   (syntax-warning-attribute :foreground "#87005f" :background "#262626")
   (syntax-string-attribute :foreground "#d7d787" :background "#262626")
   (syntax-comment-attribute :foreground "#666666" :background "#262626")

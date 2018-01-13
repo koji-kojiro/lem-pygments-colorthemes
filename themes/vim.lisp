@@ -3,6 +3,7 @@
 (define-color-theme "vim" ()
   (foreground "#FFFFFF")
   (background "#000000")
+  (cursor :foreground "#000000" :background "#FFFFFF")
   (syntax-warning-attribute :foreground nil :background "#000000")
   (syntax-string-attribute :foreground "#d70000" :background "#000000")
   (syntax-comment-attribute :foreground "#000080" :background "#000000")

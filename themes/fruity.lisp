@@ -3,6 +3,7 @@
 (define-color-theme "fruity" ()
   (foreground "#FFFFFF")
   (background "#121212")
+  (cursor :foreground "#121212" :background "#FFFFFF")
   (syntax-warning-attribute :foreground nil :background "#121212")
   (syntax-string-attribute :foreground "#0087d7" :background "#121212")
   (syntax-comment-attribute :foreground "#008700" :background "#121212")

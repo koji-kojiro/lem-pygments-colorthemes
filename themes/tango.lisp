@@ -3,6 +3,7 @@
 (define-color-theme "tango" ()
   (foreground "#000000")
   (background "#ffffff")
+  (cursor :foreground "#ffffff" :background "#000000")
   (syntax-warning-attribute :foreground "#af0000" :background "#ffffff")
   (syntax-string-attribute :foreground "#5f8700" :background "#ffffff")
   (syntax-comment-attribute :foreground "#875f00" :background "#ffffff")

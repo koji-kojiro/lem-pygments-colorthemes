@@ -3,6 +3,7 @@
 (define-color-theme "paraiso-dark" ()
   (foreground "#e4e4e4")
   (background "#262626")
+  (cursor :foreground "#262626" :background "#e4e4e4")
   (syntax-warning-attribute :foreground "#ff5f5f" :background "#262626")
   (syntax-string-attribute :foreground "#5faf87" :background "#262626")
   (syntax-comment-attribute :foreground "#767676" :background "#262626")

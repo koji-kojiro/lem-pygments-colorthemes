@@ -3,6 +3,7 @@
 (define-color-theme "xcode" ()
   (foreground "#000000")
   (background "#ffffff")
+  (cursor :foreground "#ffffff" :background "#000000")
   (syntax-warning-attribute :foreground "#000000" :background "#ffffff")
   (syntax-string-attribute :foreground "#d70000" :background "#ffffff")
   (syntax-comment-attribute :foreground "#008000" :background "#ffffff")

@@ -3,6 +3,7 @@
 (define-color-theme "borland" ()
   (foreground "#000000")
   (background "#ffffff")
+  (cursor :foreground "#ffffff" :background "#000000")
   (syntax-warning-attribute :foreground "#af0000" :background "#ffffff")
   (syntax-string-attribute :foreground "#0000ff" :background "#ffffff")
   (syntax-comment-attribute :foreground "#008700" :background "#ffffff")

@@ -3,6 +3,7 @@
 (define-color-theme "native" ()
   (foreground "#FFFFFF")
   (background "#1c1c1c")
+  (cursor :foreground "#1c1c1c" :background "#FFFFFF")
   (syntax-warning-attribute :foreground "#af0000" :background "#1c1c1c")
   (syntax-string-attribute :foreground "#ffaf00" :background "#1c1c1c")
   (syntax-comment-attribute :foreground "#9e9e9e" :background "#1c1c1c")

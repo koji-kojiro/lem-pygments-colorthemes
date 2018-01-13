@@ -3,6 +3,7 @@
 (define-color-theme "rrt" ()
   (foreground "#FFFFFF")
   (background "#000000")
+  (cursor :foreground "#000000" :background "#FFFFFF")
   (syntax-warning-attribute :foreground nil :background "#000000")
   (syntax-string-attribute :foreground "#87d7ff" :background "#000000")
   (syntax-comment-attribute :foreground "#00ff00" :background "#000000")

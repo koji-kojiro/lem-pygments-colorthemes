@@ -3,6 +3,7 @@
 (define-color-theme "friendly" ()
   (foreground "#000000")
   (background "#eeeeee")
+  (cursor :foreground "#eeeeee" :background "#000000")
   (syntax-warning-attribute :foreground nil :background "#eeeeee")
   (syntax-string-attribute :foreground "#5f5faf" :background "#eeeeee")
   (syntax-comment-attribute :foreground "#5fafaf" :background "#eeeeee")

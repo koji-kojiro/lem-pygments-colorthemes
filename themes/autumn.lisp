@@ -3,6 +3,7 @@
 (define-color-theme "autumn" ()
   (foreground "#000000")
   (background "#ffffff")
+  (cursor :foreground "#ffffff" :background "#000000")
   (syntax-warning-attribute :foreground "#ff0000" :background "#ffffff")
   (syntax-string-attribute :foreground "#af5f00" :background "#ffffff")
   (syntax-comment-attribute :foreground "#a8a8a8" :background "#ffffff")

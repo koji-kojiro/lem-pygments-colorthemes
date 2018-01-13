@@ -49,8 +49,8 @@ def load_style(name):
 
 def build_theme(name):
     bg, fg, attributes = load_style(name)
-
-    body = "\n".join(
+    body = "  (cursor :foreground {} :background {})\n".format(bg, fg)
+    body += "\n".join(
             "  ({}-attribute :foreground {} :background {})".format(*_, bg)
             for _ in attributes.items())
     with open("themes/{}.lisp".format(name), "w") as f:

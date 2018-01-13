@@ -3,6 +3,7 @@
 (define-color-theme "trac" ()
   (foreground "#000000")
   (background "#ffffff")
+  (cursor :foreground "#ffffff" :background "#000000")
   (syntax-warning-attribute :foreground "#af0000" :background "#ffffff")
   (syntax-string-attribute :foreground "#af875f" :background "#ffffff")
   (syntax-comment-attribute :foreground "#949494" :background "#ffffff")

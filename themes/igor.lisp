@@ -3,6 +3,7 @@
 (define-color-theme "igor" ()
   (foreground "#000000")
   (background "#ffffff")
+  (cursor :foreground "#ffffff" :background "#000000")
   (syntax-warning-attribute :foreground nil :background "#ffffff")
   (syntax-string-attribute :foreground "#00af00" :background "#ffffff")
   (syntax-comment-attribute :foreground "#ff0000" :background "#ffffff")
