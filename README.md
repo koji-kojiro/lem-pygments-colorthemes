@@ -1,6 +1,17 @@
 # ***WIP!***
+All themes this repository provides will be likely to change.
+
 # lem-pygments-colorthemes
-Color themes for [lem](https://github.com/cxxxr/lem) ported from [pygments](http://pygments.org/)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/koji-kojiro/lem-pygments-colorthemes/blob/master/LICENSE)
+[![Quicklisp dist](http://quickdocs.org/badge/lem-pygments-colorthemes.svg)](http://quickdocs.org/lem-pygments-colorthemes/)<br>
+
+Color themes for [lem](https://github.com/cxxxr/lem) ported from [pygments](http://pygments.org/)<br>
+
+<br>
+<p align="center">
+  <img src="https://github.com/koji-kojiro/lem-pygments-colorthemes/blob/master/sample/monokai.png">
+</p>
+
 
 ## Installation
 Via Roswell.<br>
